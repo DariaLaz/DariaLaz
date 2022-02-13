@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently styding in SoftUni.
 - 🌱 I’m currently learning C# and JS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DariaLaz&theme=radical)
+<p><img src="https://github-readme-stats.vercel.app/api?username=DariaLaz&theme=radical"></p>
