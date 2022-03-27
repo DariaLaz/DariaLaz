@@ -2,9 +2,9 @@
 
 <div>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=DariaLaz&theme=tokyonight"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=darialaz&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  <img  height="170" src="https://github-readme-stats.vercel.app/api?username=darialaz&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 <!--   <img height="200" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariaLaz&theme=tokyonight"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darialaz&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darialaz&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
 </div> 
 
 <hr>
