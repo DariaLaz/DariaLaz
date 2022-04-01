@@ -9,7 +9,7 @@
 
 <hr>
 
- <table>
+<!--  <table>
         <tr>
             <th colspan="2">SoftUni Certificates</th>
         </tr>
@@ -27,5 +27,5 @@
         <tr>
             <td><a href="">JS Applications</a></td>
         </tr>
-</table>
+</table> -->
 
