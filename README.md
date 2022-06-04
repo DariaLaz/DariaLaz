@@ -9,7 +9,7 @@
  -->
 <hr>
 
-<!--  <table>
+ <table>
         <tr>
             <th colspan="2">SoftUni Certificates</th>
         </tr>
@@ -25,7 +25,7 @@
             <td><a href="https://softuni.bg/certificates/details/126566/6087e377">&#9989; JS Advanced</a></td>
         </tr>
         <tr>
-            <td><a href="https://softuni.bg/certificates/details/130370/ee004ca0">JS Applications</a></td>
+            <td><a href="https://softuni.bg/certificates/details/130370/ee004ca0">&#9989; JS Applications</a></td>
         </tr>
-</table> -->
+</table>
 
