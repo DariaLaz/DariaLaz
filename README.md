@@ -1,15 +1,15 @@
 <h1>Hi there👋</h1>
 
-<!-- <div>
+<div>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=DariaLaz&theme=tokyonight"> -->
-<!--   <img  height="170" src="https://github-readme-stats.vercel.app/api?username=darialaz&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /> -->
-<!--   <img height="200" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariaLaz&theme=tokyonight"> -->
-<!--   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darialaz&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" /> -->
-<!-- </div>  -->
+ <img  height="170" src="https://github-readme-stats.vercel.app/api?username=darialaz&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+ <!--  <img height="200" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariaLaz&theme=tokyonight"> -->
+ <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darialaz&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" /> 
+</div> 
 
 <hr>
 
-<!--  <table>
+<table>
         <tr>
             <th colspan="2">SoftUni Certificates</th>
         </tr>
@@ -27,5 +27,12 @@
         <tr>
             <td><a href="https://softuni.bg/certificates/details/130370/ee004ca0">&#9989; JS Applications</a></td>
         </tr>
-</table> -->
+        <tr>
+            <td rowspan="2">C# DB</td>
+            <td><a href="https://softuni.bg/certificates/details/134921/a3eb3e86">&#9989; MS SQL</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://softuni.bg/certificates/details/141246/8a5a026c">&#9989; Entity Framework Core</a></td>
+        </tr>
+</table>
 
